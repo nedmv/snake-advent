@@ -1,0 +1,9 @@
+#Content in puzzle dirs, except for the code itself.
+puzzles/20??/??/*
+!puzzles/20??/??/*.py
+
+#AOC session cookie
+.aoc_token
+
+#Tools
+.vscode
